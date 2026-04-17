@@ -19,7 +19,7 @@
 
 ## 📖 Topics Covered
 
-Based on the STAT 266 curriculum, notes in this repository may include:
+Based on the STAT 266 curriculum, notes in this repository include:
 
 - Functions of random variables
 - Sampling distributions
